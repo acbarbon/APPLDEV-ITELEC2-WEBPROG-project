@@ -1,0 +1,51 @@
+.gallery-text {
+    float: left;
+    width: 20%;
+    margin: 1%;
+
+}
+.gallery-text p {
+    word-break: break-all;
+   overflow: hidden;
+letter-spacing: 1px;
+text-align: left;
+line-height: 1.2;
+font-size: 33px;
+font-weight: 400;
+font-style: normal;
+font-family: "Ubuntu", serif;
+color: #2C8D1B;
+}
+
+.gallery-text2 {
+    float: right;
+    width: 20%;
+    margin: 1%;
+
+}
+.gallery-text2 p {
+    word-break: break-all;
+   overflow: hidden;
+letter-spacing: 1px;
+text-align: left;
+line-height: 1.2;
+font-size: 33px;
+font-weight: 400;
+font-style: normal;
+font-family: "Ubuntu", serif;
+color: #2C8D1B;
+}
+.para
+{
+	width: 555px;
+height: 55px;
+overflow: hidden;
+letter-spacing: 0px;
+text-align: center;
+font-size: 36px;
+line-height: 1.5;
+font-weight: 500;
+font-style: normal;
+font-family: "Ubuntu", serif;
+color: #ffffff;
+}

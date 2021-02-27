@@ -1,0 +1,173 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+/*mobilize container*/
+#mobilizecontainer{
+	width:395px;
+    height:650px;
+    position:relative;
+    border: 5px outset #333;
+    border-radius: 0;
+    background-color: #114B5F;    
+    text-align: center;
+    }
+
+.mobilizebox{
+    margin-left: 40px;
+    margin-right: 5%;
+    position:absolute;
+    width:400px;
+    height:20px;    
+    }
+
+.mobilizetop {top:5%}
+
+.mobilizemid{top:50%;margin-top:-10px;}
+
+.mobilizeleft{left:0;}
+
+.mobilizecenter{left:4%;margin-right:-10px;}
+
+
+/*mold container*/
+#moldcontainer{
+  	width:395px;
+    height:650px;
+    position:relative;
+    border: 5px outset #333;
+    border-radius: 0;
+    background-color: #1A936F;    
+    text-align: center;
+    }
+
+.moldbox{
+    margin-left: 40px;
+    margin-right: 5%;
+    position:absolute;
+    width:400px;
+    height:20px;    
+    }
+
+.moldtop {top:5%}
+
+.moldmid{top:50%;margin-top:-10px;}
+
+.moldleft{left:0;}
+
+.moldcenter{left:4%;margin-right:-10px;}
+
+/*motivate container*/
+#motivatecontainer{
+  	width: 395px;
+    height: 650px;
+    position:relative;
+    border: 5px outset #333;
+    border-radius: 0;
+    background-color: #88D498;    
+    text-align: center;
+    }
+
+.motivatebox{
+    margin-left: 40px;
+    margin-right: 5%;
+    position:absolute;
+    width:400px;
+    height:20px;    
+    }
+
+.motivatetop {top:5%}
+
+.motivatemid{top:50%;margin-top:-10px;}
+
+.motivateleft{left:0;}
+
+.motivatecenter{left:4%;margin-right:-10px;}
+
+/* image container */
+
+#container3{
+  width:100%;
+  height:600px;
+}
+
+.container3box{ 
+  margin-left: 0;
+  margin-top: 3%;
+  background-image: url(https://i.pinimg.com/originals/27/ca/e9/27cae9561c6bdf3ea3794e12f0098677.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  }
+
+.container3top {top:5%}
+
+.container3mid{top:50%;margin-top:-10px;}
+
+.container3left{left:0;}
+
+.container3center{left:0;margin-right:0;}
+
+/*donation container*/
+#donatecontainer{
+  	width:395px;
+    height:450px;
+    position:relative;
+    border: 5px outset #333;
+    border-radius: 0;
+    background-color: #88D498;
+    text-align: center;
+    }
+
+.donatebox{
+    margin-left: 40px;
+    margin-right: 5%;
+    position:absolute;
+    width:400px;
+    height:20px;    
+    }
+
+.donatetop {top:5%}
+
+.donatemid{top:50%;margin-top:-10px;}
+
+.donateleft{left:0;}
+
+.donatecenter{left:4%;margin-right:-10px;}
+
+/*share container*/
+#sharecontainer{
+  	width:395px;
+    height:450px;
+    position:relative;
+    border: 5px outset #333;
+    border-radius: 0;
+    background-color: #88D498;
+    text-align: center;
+    }
+
+.sharebox{
+    margin-left: 40px;
+    margin-right: 40px;
+    position:absolute;
+    width:400px;
+    height:20px;    
+    }
+
+.sharetop {top:5%}
+
+.sharemid{top:50%;margin-top:-10px;}
+
+.shareleft{left:0;}
+
+.center{left:4%;margin-right:-10px;}
+
+.flex-container {display: flex;}
+
+.flex-child {flex: 1;}  
+
+.flex-child:first-child {margin-right: 0px;}

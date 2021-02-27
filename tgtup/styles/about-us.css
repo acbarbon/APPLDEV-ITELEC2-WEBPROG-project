@@ -1,0 +1,24 @@
+/*About Us container*/
+#aboutcontainer{
+  width:100%;
+  height:300px;
+  position:relative;
+  background-color: #1A936F;  
+  text-align: center;
+  margin-top: 2%;
+}
+
+.aboutbox{
+  margin-left: 10%;
+  margin-right: 10%;
+  position:absolute;
+  width:500px;
+  height:20px;    
+}
+
+.abouttop {top:0}
+.aboutmiddle{top:35%;margin-top:-10px;/*half of the .box height*/}
+
+.aboutleft{left:0;}
+.aboutcenter{left:50%;margin-left:-10px;/*half of the .box width*/}
+

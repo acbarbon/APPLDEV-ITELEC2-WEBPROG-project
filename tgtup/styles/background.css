@@ -1,0 +1,38 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+
+.bg {
+background-image: url(https://endingchildpoverty.org/images/water-bottle-MAIN.jpg);
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.bg2 {
+background-image: url(https://www.sunstar.com.ph/uploads/images/2018/11/09/101070.jpg);
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.backgroundbox{
+box-sizing: border-box;
+width: 601px;
+height: 90px;
+overflow: visible;
+background-color: #1a936f;
+border: 3px double #222;
+}
+.donationbox{
+box-sizing: border-box;
+width: 601px;
+height: 90px;
+overflow: visible;
+background-color: #88D498;
+border: 3px double #222;
+}

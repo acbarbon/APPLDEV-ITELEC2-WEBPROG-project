@@ -1,0 +1,203 @@
+/*Mission/Vission*/
+
+/*Imagine passion container*/
+#container1 {
+	width:75%;
+  height:410px;
+  position:relative;
+  border: 5px outset #333;
+  border-radius: 10%;
+  background-color: #f2f2f2;    
+  text-align: center;
+}
+
+.box1 {
+ 	margin-left: 10%;
+  margin-right: 10%;
+  position:absolute;
+  width:540px;
+  height:20px;    
+}
+
+.top1 {
+	top:0
+}
+
+.middle1 { 
+	top:50%;
+	margin-top:-10px; /*half of the .box1 height*/
+}
+
+.left1 {
+	left:0;
+}
+
+.center1 {
+	left:45%;
+	margin-left:-10px; /*half of the .box1 width*/
+}
+
+
+.flex-container1 {
+  display: flex;
+}
+
+.flex-child1 {
+  flex: 1;
+}  
+
+.flex-child1:first-child1 {
+  margin-right: 20px;
+} 
+
+
+/*Pesons container*/
+#container2 {
+	width:75%;
+  height:950px;
+  position:relative;
+  border: 5px outset #333;
+  border-radius: 10%;
+  background-color: #f2f2f2;    
+  text-align: center;
+}
+
+.box2{
+  margin-left: 11%;
+  margin-right: 5%;
+  position:absolute;
+  width:400px;
+  height:20px;    
+}
+
+.top2 {
+  top:5%
+}
+
+.middle2 {
+  top:50%;
+  margin-top:-10px;
+}
+
+.left2 {
+  left:0;
+}
+
+.center2 {
+  left:4%;
+  margin-right:-10px;
+}
+
+
+/*Partnerships container*/
+#aboutcontainer3 {
+ width:75%;
+ height:875px;
+ position:relative;
+ border: 5px outset #333;
+ border-radius: 10%;
+ background-color: #f2f2f2;    
+ text-align: center;
+}
+
+.box3 {
+  margin-left: 11%;
+  margin-right: 5%;
+  position:absolute;
+  width:400px;
+  height:15px;    
+}
+
+.top3 {
+  top:5%;
+}
+
+.middle3 {
+  top:50%;
+  margin-top:-10px;
+}
+
+.left3 {
+  left:0;
+}
+
+.center3 {
+  left:10%;
+  margin-right:-10px;
+}
+
+
+/*Purpose container*/
+#container4{
+  width:75%;
+  height:950px;
+  position:relative;
+  border: 5px outset #333;
+  border-radius: 10%;
+  background-color: #f2f2f2;    
+  text-align: center;
+}
+
+.box4 {
+  margin-left: 11%;
+  margin-right: 5%;
+  position:absolute;
+  width:400px;
+  height:15px;    
+}
+
+.top4 {
+  top:5%;
+}
+
+.middle4 { 
+  top:50%;
+  margin-top:-10px;
+}
+
+.left4 {
+  left:0;
+}
+
+.center3 {
+  left:10%;
+  margin-right:-10px;
+}
+
+
+/*Pesons container*/
+#container5 {
+  width:75%;
+  height:1230px;
+  position:relative;
+  border: 5px outset #333;
+  border-radius: 10%;
+  background-color: #f2f2f2;    
+  text-align: center;
+}
+
+.box5 {
+  margin-left: 11%;
+  margin-right: 5%;
+  position:absolute;
+  width:400px;
+  height:20px;    
+}
+
+.top5 {
+  top:5%;
+}
+        
+.middle5 {
+  top:50%;
+  margin-top:-10px;
+}
+
+.left5 {
+  left:0;
+}
+        
+.center5 {
+  left:4%;
+  margin-right:-10px;
+}

@@ -1,0 +1,8 @@
+/*Image container*/
+#imgcontainer{
+	width:100%;
+  height:300px;
+  position:relative;
+  text-align: center;
+  margin-top: 2%;
+ }
