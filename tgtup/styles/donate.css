@@ -1,0 +1,137 @@
+/*Donate container*/
+#Dcontainer {
+  width:100%;
+  height:345px;
+  position:relative;
+  border: 3px outset #333;
+  border-radius: 5%;
+  background-color:#1A936F;    
+  text-align: center;
+}
+
+#D2container {
+  width:100%;
+  height:50%;
+  position:relative;
+  border: 3px outset #333;
+  border-radius: 5%;
+  background-color:#A3DEAF;    
+  text-align: center;
+}
+
+.Dbox {
+  margin-left: 11%;
+  margin-right: 5%;
+  position:absolute;
+  width:400px;
+  height:20px;     
+}
+
+.Dmiddle {
+  top:35%;
+  margin-top:-10px;/*half of the .box height*/}
+
+.Dleft {
+  left:0;
+}
+
+.Dcenter {
+  left:50%;
+  margin-left:-10px;/*half of the .box width*/}
+
+.Dflex-container {
+  display: flex;
+}
+
+.Dflex-child {
+  flex: 1;
+}  
+
+.Dflex-child:Dfirst-child {
+  margin-right: 0px;
+}
+
+.Dbox2{
+  position:absolute;
+  width:400px;
+  height:20px;    
+}
+
+
+.Dmiddle2 {
+  top:50%;
+  margin-top:-10px;
+}
+
+.Dleft2 {
+  left:50%;
+}
+
+.Dcenter2 {
+  left:4%;
+  margin-right:-10px;
+}
+
+#Dcontainer3{
+  width:100%;
+  height:600px;
+}
+
+.Dcontainer3box{ 
+  margin-left: 0;
+  margin-top: 3%;
+  }
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 40px auto 0;
+  max-width: 640px;
+}
+
+form {
+  margin: 40px auto 0;
+}
+
+label {
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+input {
+  border: 2px solid #333;
+  border-radius: 5px;
+  color: #333;
+  font-size: 32px;
+  margin: 0 0 20px;
+  padding: .5rem 1rem;
+  width: 100%;
+
+}
+
+button {
+  background: #1A936F;
+  border: 2px solid #333;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+button:hover {
+  background: #333;
+  border: 2px solid #333;
+  color: #fff;
+}
+
+.main {
+  margin: 40px auto;
+  padding: 40px;
+  width: 80%;
+  max-width: 700px;
+}
+
+
